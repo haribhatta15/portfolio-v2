@@ -28,7 +28,7 @@ export const Footer = () => {
           </div>
 
           <div className="footer-bottom flex">
-            <p>@2022 Hari Design | All Rights Reserved.</p>
+            <p>&copy; Hari Design 2022 | All rights reserved.</p>
           </div>
         </div>
       </footer>
